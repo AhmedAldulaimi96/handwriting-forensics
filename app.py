@@ -35,11 +35,11 @@ with st.sidebar:
     st.markdown("---")
     
     # --- VOLUNTARY DONATION (Optional) ---
-    st.header("☕ Support This Tool")
-    st.write("This tool is free for education. If it helped you, consider supporting the server costs.")
-    with st.expander("🇮🇶 Donate via ZainCash"):
-        st.write("**ZainCash:** 0780 XXXXXXX")
-        st.caption("Any amount helps!")
+    # st.header("☕ Support This Tool")
+    # st.write("This tool is free for education. If it helped you, consider supporting the server costs.")
+    # with st.expander("🇮🇶 Donate via ZainCash"):
+    #     st.write("**ZainCash:** 0780 XXXXXXX")
+    #     st.caption("Any amount helps!")
     
     st.markdown("---")
     st.caption("v1.0.0 | Built for Academic Integrity")
