@@ -41,7 +41,7 @@ with st.sidebar:
     #     st.write("**ZainCash:** 0780 XXXXXXX")
     #     st.caption("Any amount helps!")
     
-    st.markdown("---")
+    # st.markdown("---")
     st.caption("v1.0.0 | Built for Academic Integrity")
 
 # ==========================================
